@@ -15,13 +15,13 @@ Com PHP puro, o objetivo do trabalho é aplicar conceitos de **Clean Code** e **
 
 ---
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **PHP 8+**  
 - **XAMPP** (Apache + PHP)  
 
 ---
 
-##Estrutura de Pastas
+## Estrutura de Pastas
 
 /PRD — Carrinho de compras/
 │── index.php
@@ -34,7 +34,7 @@ Com PHP puro, o objetivo do trabalho é aplicar conceitos de **Clean Code** e **
 
 ---
 
-##Arquivos e Classes
+## Arquivos e Classes
 
 ### `Product.php`
 Classe que representa um **produto**.  
