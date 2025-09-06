@@ -1,6 +1,6 @@
-# 📦 Carrinho de Compras em PHP
+# Carrinho de Compras em PHP
 
-## 📌 Sobre o Projeto
+##Sobre o Projeto
 Com PHP puro, o objetivo do trabalho é aplicar conceitos de **Clean Code** e **Design Patterns**, seguindo os padrões de codificação da **PSR-12**.  
 
 ---
@@ -15,13 +15,13 @@ Com PHP puro, o objetivo do trabalho é aplicar conceitos de **Clean Code** e **
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##Tecnologias Utilizadas
 - **PHP 8+**  
 - **XAMPP** (Apache + PHP)  
 
 ---
 
-## 📂 Estrutura de Pastas
+##Estrutura de Pastas
 
 /PRD — Carrinho de compras/
 │── index.php
@@ -34,7 +34,7 @@ Com PHP puro, o objetivo do trabalho é aplicar conceitos de **Clean Code** e **
 
 ---
 
-## 📌 Arquivos e Classes
+##Arquivos e Classes
 
 ### `Product.php`
 Classe que representa um **produto**.  
@@ -73,7 +73,7 @@ Ponto de entrada do sistema, carregando as classes e executando o fluxo:
 
 ---
 
-## ⚙️ Regras de Negócio
+##Regras de Negócio
 - Só será possível adicionar produto se houver **estoque suficiente**.  
 - Adicionar um produto no carrinho, faz com que o estoque desse produto seja **reduzido**.  
 - Remover um produto no carrinho, faz com que o estoque desse produto seja **restaurado**.  
@@ -81,7 +81,7 @@ Ponto de entrada do sistema, carregando as classes e executando o fluxo:
 
 ---
 
-## ▶️ Como Executar
+##Como Executar
 
 1. Instale o **XAMPP** e inicie o Apache.  
 2. Jogue a pasta `PRD — Carrinho de compras/` para dentro do diretório `htdocs`.  
