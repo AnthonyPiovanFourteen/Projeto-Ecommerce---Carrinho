@@ -1,8 +1,5 @@
 <?php
 
-/**
- * Quando você cria o CartItem, você passa quantidade e produto, que depois ser
- */
 class CartItem
 {
     private Product $product;
