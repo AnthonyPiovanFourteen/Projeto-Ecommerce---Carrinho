@@ -73,7 +73,7 @@ Ponto de entrada do sistema, carregando as classes e executando o fluxo:
 
 ---
 
-##Regras de Negócio
+## Regras de Negócio
 - Só será possível adicionar produto se houver **estoque suficiente**.  
 - Adicionar um produto no carrinho, faz com que o estoque desse produto seja **reduzido**.  
 - Remover um produto no carrinho, faz com que o estoque desse produto seja **restaurado**.  
@@ -81,7 +81,7 @@ Ponto de entrada do sistema, carregando as classes e executando o fluxo:
 
 ---
 
-##Como Executar
+## Como Executar
 
 1. Instale o **XAMPP** e inicie o Apache.  
 2. Jogue a pasta `PRD — Carrinho de compras/` para dentro do diretório `htdocs`.  
