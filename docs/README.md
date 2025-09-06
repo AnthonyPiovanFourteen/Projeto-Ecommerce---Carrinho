@@ -1,6 +1,10 @@
 # Carrinho de Compras em PHP
 
-##Sobre o Projeto
+## Integrantes do Grupo:
+Anthony Gabriel Piovan Dos Santos - RA 1987602
+Wendell Pereira Ribeiro - RA 2004501
+
+## Sobre o Projeto
 Com PHP puro, o objetivo do trabalho é aplicar conceitos de **Clean Code** e **Design Patterns**, seguindo os padrões de codificação da **PSR-12**.  
 
 ---
